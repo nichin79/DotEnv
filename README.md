@@ -1,6 +1,7 @@
 # .env
 
 **Example**
+
 require_once **DIR** . '/../vendor/autoload.php';
 
 (new Nichin79\DotEnv\DotEnv(**DIR** . '/../.env'))->load();
